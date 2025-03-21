@@ -1,10 +1,10 @@
-# Mi_Primer_Semestre_Inform-tica.
+# Informática.
 "Proyectos y ejercicios realizados durante mi primer semestre en Licenciatura en Informática."
 
 
 # Portafolio: Primer Semestre de Informática 📚💻
 
-¡Bienvenido/a! Este repositorio contiene los proyectos y ejercicios que he realizado durante mi primer semestre en la Licenciatura en Informática. Aquí documenté mis avances en las materias de **Pensamiento Computacional** y **Tecnología Educativa**.
+¡Bienvenido/a! Este repositorio contiene los proyectos y ejercicios que he realizado durante mi primer semestre en la Licenciatura en Informática. Aquí documenté mis avances en las materias de **Pensamiento Computacional**
 
 ---
 
@@ -31,4 +31,4 @@ Cualquier retroalimentación, idea o sugerencia es bienvenida. ¡Siéntete libre
 
 ## 📬 Contacto
 Puedes contactarme para preguntas o colaboraciones:
-- **raul_cc_96@hotmail.es**: tuemail@example.com
+- **raul_cc_96@hotmail.es**
